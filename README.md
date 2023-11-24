@@ -1,0 +1,2 @@
+# word2vec_japanese_example
+word2vecのサンプルを置いています
